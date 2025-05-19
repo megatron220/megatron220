@@ -15,3 +15,4 @@
 [![Vkontakte]( https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=VK&logoColor=42AAFF)](https://vk.com/megatron220)
 [![YouTube]( https://img.shields.io/badge/-youtube-000000?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@DJIGA666)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=megatron220&show_icons=true)
